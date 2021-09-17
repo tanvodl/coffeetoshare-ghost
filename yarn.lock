@@ -6569,7 +6569,7 @@
     "valid-url" "^1.0.9"
     "xstate" "^4.14.0"
 
-"gatsby-source-ghost@4.2.4":
+"gatsby-source-ghost@^4.2.4":
   "integrity" "sha512-3Xaiuz+Bf49CH7jTJ2pRyWUogUXthOjzzxR+6WVm3No8Z9wIJD2Hqbv5rTuQgjAIp++kUlXOeZP2GR7brRaNjg=="
   "resolved" "https://registry.npmjs.org/gatsby-source-ghost/-/gatsby-source-ghost-4.2.4.tgz"
   "version" "4.2.4"
